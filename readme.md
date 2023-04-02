@@ -73,11 +73,11 @@
 
 
 <div align="center">
-<a href="https://github.com/MhnnX/">
+    <a href="https://github.com/MhnnX/">
 
 ![Muhafan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MhnnX&show_icons=true&theme=radical)
-
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MhnnX)](https://github.com/MhnnX/github-readme-stats)
+    </a>
 </div>
 
 
