@@ -23,7 +23,6 @@
 <p align="center">
 
 - **Languages**:
-    
     ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=C-sharp&logoColor=white)
     ![ASP.NET](https://img.shields.io/badge/.NET%20-%232370ED.svg?style=for-the-badge&logo=.NET&logoColor=white)
 
@@ -50,15 +49,8 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+    ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 <br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
 </p>
 
 
