@@ -76,7 +76,9 @@
 <a href="https://github.com/MhnnX/">
 
 ![Muhafan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MhnnX&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MhnnX&exclude_repo=github-readme-stats,MhnnX.github.io)](https://github.com/MhnnX/github-readme-stats)    </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MhnnX&exclude_repo=github-readme-stats,MhnnX.github.io)](https://github.com/MhnnX/my-profile)
+
+</a>
 
 </div>
 
