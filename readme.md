@@ -68,7 +68,7 @@
 <br>
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> **Github Stats** </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats</b>
 <br>
 
 
@@ -76,8 +76,6 @@
 <a href="https://github.com/MhnnX/">
 
 ![Muhafan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MhnnX&show_icons=true&theme=radical)
-[![Top Langs](https:/my-profile-three-black.vercel.app/api/top-langs/?username=MhnnX&exclude_repo=my-profile,MhnnX.github.io)](https://github.com/MhnnX/my-profile)
-
 </a>
 
 </div>
