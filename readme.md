@@ -24,7 +24,7 @@
 
 - **Languages**:
     
-    ![C#](https://img.shields.io/badge/c%20-%232370ED.svg?style=for-the-badge&logo=C-sharp&logoColor=white)
+    ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=C-sharp&logoColor=white)
     ![ASP.NET](https://img.shields.io/badge/ASP.NET%20-%232370ED.svg?style=for-the-badge&logo=ASP.NET&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
