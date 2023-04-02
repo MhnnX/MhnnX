@@ -6,7 +6,7 @@
 ## <picture><img src = "https://github.com/MhnnX/MhnnX/blob/8cb4e13fd6e98b1fbe6ebc20dac43d358ee99486/assets/img/about_me.gif" width = 50px></picture> **About me**
 
 <picture>
-    <img align="right" src="" width = 250px>
+    <img align="right" src="https://github.com/MhnnX/MhnnX/blob/master/assets/img/Right_Side.gif" width = 250px>
 </picture>
 
 <br>
@@ -17,11 +17,10 @@
 
 <br><br>
 
-<img src=""><br><br>
+<img src="https://github.com/MhnnX/MhnnX/blob/master/assets/img/loading_bar.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
-
 <p align="center">
 
 - **Languages**:
@@ -93,7 +92,7 @@
 
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/MhnnX/MhnnX/blob/master/assets/img/loading_bar.gif">
 <br>
 <br>
 <br>
