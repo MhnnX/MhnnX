@@ -26,8 +26,7 @@
 
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=C-sharp&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  !![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json)
-
+  ![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 <br>   
     
