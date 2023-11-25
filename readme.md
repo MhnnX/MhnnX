@@ -55,7 +55,7 @@
     ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
     ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
     ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-    ![QbCore](https://camo.githubusercontent.com/e261e5c92eee554fac6e99d635ea69202c0ff93a7b54e069714f990b1de5d598/68747470733a2f2f692e696d6775722e636f6d2f474846536843762e706e67)
+    ![QbCore](https://avatars.githubusercontent.com/u/81791099?s=200&v=4)
 
 <br>
 
